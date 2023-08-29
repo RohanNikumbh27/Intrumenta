@@ -28,8 +28,7 @@ nav.navbar {
     
     margin-bottom: 20px;
     color: white;
-    border-radius: 15px;
-    display: inline;
+    display: block;
     text-align: center;
     opacity: 1;
     padding: 5px 15px 5px 15px;
@@ -40,7 +39,7 @@ nav.navbar {
 .hero h1 b {
     text-align: center;
     margin: auto;
-    display: inline-block;
+    display: block;
 }
 
 .hero p {
